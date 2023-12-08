@@ -141,6 +141,9 @@
     max-width: 360px;
     width: 100%;
 }
+.search-input{
+    width: 100%;
+}
 
 
 /* ? ================= HEADER CSS END ======================== */
